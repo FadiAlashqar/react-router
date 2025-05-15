@@ -11,3 +11,24 @@
   padding: 10px;
   color: white;
 }
+
+.card-description {
+  font-size: 10px;
+}
+
+.card-title {
+  font-size: 20px;
+}
+
+.card {
+  width: 400px;
+  height: fit-content;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-img-top {
+  width: 50%;
+}
